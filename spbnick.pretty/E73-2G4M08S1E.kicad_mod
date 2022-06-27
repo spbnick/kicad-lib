@@ -106,7 +106,7 @@
   (pad "41" smd rect (at 6.2 5.37 180) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cc62111b-bd5c-429e-9c48-a907a32c9a16))
   (pad "42" smd rect (at 4.4 4.735 270) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 85dd7b4f-82c1-40df-83d8-949fc11dfb05))
   (pad "43" smd rect (at 6.2 4.1 180) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6804e06-451f-4b64-9191-335b9f97b146))
-  (model "${KISYS3DMOD}/RF_Module.3dshapes/ESP32-S2-WROVER.wrl"
+  (model ":spbnick:E73-2G4M08S1E.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
